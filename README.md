@@ -18,8 +18,8 @@ I love solving problems, building scalable projects, and diving deep into **Syst
 
 ## 🤝 Let's Connect
 - 📫 Email: smrutiprajna2013@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/smrutiprajnamallick](https://www.linkedin.com/in/smrutiprajnamallick)  
-- 🌐 GitHub: [github.com/SmrutiprajnaMallick](https://github.com/SmrutiprajnaMallick)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/smrutiprajnamallick/](https://www.linkedin.com/in/smrutiprajnamallick/)
+- 🌐 GitHub: [https://github.com/Smrutiprajna](https://github.com/Smrutiprajna)
 
 ## 📚 Fun Fact
 I love **learning new tech, solving algorithm challenges**, and sharing knowledge through my repositories!
